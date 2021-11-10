@@ -10,13 +10,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 - 🏦 I'm a Software Development Engineer.
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I regulary write technical articles for [hashnode](https://Ahmad-AbuOsbeh.tech/) and [dev.to](https://dev.to/Ahmad-AbuOsbeh)
-- 💻 I use daily **.java**, **.py**, **.js**, **.sql**
-- 📖 I am currently reading **The Psychology of Money** by Morgan Housel
-- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups
-- 👯 We can connect to play some games of Chess ♟
-- ⚡ Fun fact: Je connais un peu le français
+ 
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
@@ -62,16 +56,6 @@ Sunday       91 commits     ██████░░░░░░░░░░░�
 ```
 
 
-**I Mostly Code in Python 💻** 
-
-```text
-Python                   13 repos            ████████░░░░░░░░░░░░░░░░░   32.5% 
-Java                     9 repos             █████░░░░░░░░░░░░░░░░░░░░   22.5% 
-Jupyter Notebook         9 repos             █████░░░░░░░░░░░░░░░░░░░░   22.5% 
-JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
-C++                      1 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5%
-
-```
 
 
 
@@ -80,30 +64,4 @@ C++                      1 repos             ░░░░░░░░░░░�
 ⏳ **Year Progress** { █████████████████████████▁▁▁▁▁ } 85.76 % as on ⏰ 9-Nov-2021
 
 ---
-
-### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 23px> My Latest Blog posts:
-<!-- BLOG-POST-LIST:START -->
-- [Building Microservices using Spring Boot + HarperDB and Deploying it on AWS](https://apoorvtyagi.tech/building-microservices-using-spring-boot-harperdb-and-deploying-it-on-aws)
-- [Javascript Clean Code Tips &amp; Good Practices](https://apoorvtyagi.tech/javascript-clean-code-tips-and-good-practices)
-- [NanoID - A URL Friendly Unique Identifier](https://apoorvtyagi.tech/nanoid-url-friendly-unique-id)
-- [JavaScript Tips and Best Practices](https://apoorvtyagi.tech/javascript-tips-and-best-practices)
-- [Five++ cool Python snippets &lpar;Part - 2&rpar;](https://apoorvtyagi.tech/five-cool-python-snippets-part-2)
-<!-- BLOG-POST-LIST:END -->
-
-▶ [... view more](https://apoorvtyagi.tech/)
-
----
-
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> A Famous Fact/Quote:
-<a href="https://github.com/marketplace/actions/quote-readme">
-<!--STARTS_HERE_QUOTE_README-->
-• <i>The first Apple computer ever made by Steve Jobs and Steve Wozniak was made from old parts they collected for free from their staff!</i>
-<!--ENDS_HERE_QUOTE_README-->
-</a>
-
----
-
-### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29px'> Here's some humor for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" />
-
 
