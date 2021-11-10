@@ -7,6 +7,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 Skills: Node.js / REACT.js / JS / HTML / CSS
 
 <!-- - 🔭 I’m currently working on this page.  -->
+![Profile views](https://gpvc.arturio.dev/Ahmad-AbuOsbeh)  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ahmad-AbuOsbeh)  
@@ -19,4 +20,3 @@ Skills: Node.js / REACT.js / JS / HTML / CSS
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ahmad-AbuOsbeh)  
 
-![Profile views](https://gpvc.arturio.dev/Ahmad-AbuOsbeh)  
